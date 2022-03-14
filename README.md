@@ -2,7 +2,7 @@
 
 To deploy your own Quirrel server to Railway, click this button:
 
-[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=quirrel)
+[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template/quirrel)
 
 During the process, Railway will clone this repository for you. In there, you find a `Dockerfile`. To pin down your Quirrel version, update its tag:
 
